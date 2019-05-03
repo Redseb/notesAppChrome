@@ -1,0 +1,26 @@
+html {
+    height: 400px;
+    width: 400px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+#notepad {
+  font-size: 24px;
+  line-height: 27px;
+  display: block;
+  width: 100%;
+  height: 100vh;
+  appearance: none;
+  border: none;
+  outline: none;
+  color: inherit;
+  background: transparent;
+  background-image: url(http://www.attachmax.com/p/2018/11/best-50-notepad-wallpaper-on-hipwallpaper-notepad-wallpaper-with-regard-to-yellow-notebook-paper-background-600x600.jpg);
+  resize: none;
+}
